@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "delig", "delig\delig.csproj", "{256EA14A-8B08-4CF0-B10A-8A808E8B521B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{256EA14A-8B08-4CF0-B10A-8A808E8B521B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{256EA14A-8B08-4CF0-B10A-8A808E8B521B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{256EA14A-8B08-4CF0-B10A-8A808E8B521B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{256EA14A-8B08-4CF0-B10A-8A808E8B521B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68F3791A-887D-4439-8F71-BCB7F74DC0F9}
+	EndGlobalSection
+EndGlobal
